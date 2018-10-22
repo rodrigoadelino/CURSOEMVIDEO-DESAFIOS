@@ -1,0 +1,5 @@
+print ('=======DESAFIO 02 ========')
+d  = input ('Dia =')
+m = input ('Mes =')
+a = input ('Ano=')
+print ('Você nasceu no dia \033[1;34m{}\033[m de \033[1;34m{}\033[m de \033[1;34m{}\033[m.Correto ?'.format (d,m,a))
